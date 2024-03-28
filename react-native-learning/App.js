@@ -20,6 +20,8 @@ export default function App() {
   );
 }
 
+// Based on CSS syntax, but only a subset of properties & features is supported!
+// Styles are defined in JavaScript objects
 const styles = StyleSheet.create({
   container: {
     flex: 1,
